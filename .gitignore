@@ -1,4 +1,5 @@
 micro-lisp
+micro-lisp.dSYM
 *.o
 *.bak
 *.swp
